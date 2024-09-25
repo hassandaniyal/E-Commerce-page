@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    font-family: "Poppins", sans-serif;
+
+}
+
+#hero {
+    background-color: #f8e1e1;
+
+}
+
+.icon {
+    color: #ed2355;
+    padding-top: 80px;
+    bottom: 80px;
+
+}
+
+.leftcontent {
+
+
+    padding: 10px;
+}
+
+.image {
+    padding: 20px;
+    border: 1px solid silver;
+    border-radius: 1px;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    transition: all 1s ease;
+
+
+}
+
+.image:hover {
+    cursor: pointer;
+    box-shadow: -1px 19px 6px 0px rgba(153, 153, 153, 0.53);
+
+}
+
+.fea-product {
+    background-color: #f5f5f5;
+    border-radius: 1px;
+    height: 220px;
+    width: 200px;
+    text-align: center;
+
+}
+
+.para {
+    font-size: 13px;
+    color: rgb(90, 88, 88);
+
+}
+
+.bold-head {
+    font-weight: 600;
+}
+
+.heading {
+    font-size: 12px;
+}
+
+.icons {
+    color: gold;
+}
+
+.btn {
+    font-size: small;
+}
+
+.gapp {
+    margin-top: 40px;
+}
+
+.mobile {
+    background-color: #f5f5f5;
+    min-height: 400px;
+    height: 550px;
+}
+
+.headtext {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.arrivelImage {
+    background-color: #f5f5f5;
+    width: 100px;
+
+}
+
+#payment {
+    background-color: #fcf1ec;
+}
+
+.shopping {
+    background-color: white;
+    margin: 20px;
+    transition: all 1s ease-in;
+}
+
+.shopping:hover {
+    background-color: #f5b9c6;
+    color: white;
+    cursor: pointer;
+    box-shadow: 0px 0px 20px 1px #f5b9c6;
+    transform: scale(1.10);
+
+}
+
+.pSearch {
+    padding-right: 150px;
+}
+
+.button {
+    border-radius: 40px;
+}
+
+.footerIcon {
+    background-color: #f5f5f5;
+    color: rgb(114, 164, 255);
+}
+
+.footerText {
+    font-size: 14px;
+    font-weight: 500;
+    color: #778296;
+}
